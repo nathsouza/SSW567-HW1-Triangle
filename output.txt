@@ -1,0 +1,25 @@
+Windows PowerShell
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\nsouz\OneDrive\Documents\STEVENS\SSW 567 - Testing & QA\Python Assignments> & C:/Users/nsouz/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/nsouz/OneDrive/Documents/STEVENS/SSW 567 - Testing & QA/Python Assignments/HW1-Triangle/HW1-Triangle.py"
+----Beginning of Testing-----
+classifyTriangle(1,2,3)=Right
+classifyTriangle(1,1,1)=Equilateral
+F.
+======================================================================
+FAIL: testSet1 (__main__.TestTriangles)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "c:\Users\nsouz\OneDrive\Documents\STEVENS\SSW 567 - Testing & QA\Python Assignments\HW1-Triangle\HW1-Triangle.py", line 33, in testSet1
+    self.assertEqual(classifyTriangle('banana', 'pumpkin','christmas'), 'These are not numbers')
+AssertionError: 'Scalene' != 'These are not numbers'
+- Scalene
++ These are not numbers
+
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+FAILED (failures=1)
+PS C:\Users\nsouz\OneDrive\Documents\STEVENS\SSW 567 - Testing & QA\Python Assignments>
