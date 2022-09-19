@@ -1,0 +1,13 @@
+#Stevens Institute of Technology - Fall 2022
+# SSW 567 - Software Testing, Quality Assurance and Maintenance
+
+#Homework Assignment #1
+
+1. What challenges did you encounter with this assignment, if any? 
+    I had a hard time figuring out how the code should be laid out since I don't have too much experience in coding. Using the sample provided made it much easier in understanding what the steps and prcoess should be. It became easier the more I coded and understood the assignment.
+2. What did you think about the requirements specification for this assignment?
+    I thought the requirements were reasonable and outlined fully what we should be looking to complete. The requirements represented typical test case scenarios.
+3. What challenges did you encounter with the tools?
+    My biggest challenge was understanding the code layout and how the output should ideally look like. I think I completing it to a sufficient standard but perhaps there was more to be expected of me.
+4. Describe the criteria you used to determine that you had sufficient test cases, i.e. how did you know you were done?
+    I used the assignment outline as a reference of how much should be included. Once I had a decent amount of data and test cases for all scenarios I felt the assignment was appropriately done.
